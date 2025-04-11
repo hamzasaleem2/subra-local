@@ -12,6 +12,7 @@ interface SEOProps {
 export function SEO({ title, description, image, url, noindex, children }: SEOProps) {
   const siteUrl = "https://subra.app"
   const defaultImage = `${siteUrl}/og-image.png`
+  const githubUrl = "https://github.com/hamzasaleem2/subra-local"
   
   return (
     <Helmet>
@@ -34,6 +35,7 @@ export function SEO({ title, description, image, url, noindex, children }: SEOPr
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#000000" />
       <link rel="canonical" href={url || siteUrl} />
+      <link rel="source" href={githubUrl} />
       
       {noindex && <meta name="robots" content="noindex" />}
       {children}

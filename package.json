@@ -3,6 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzasaleem2/subra-local"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
