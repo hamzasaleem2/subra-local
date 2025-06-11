@@ -1,13 +1,12 @@
-# Subra - Escape the Subscription Trap
-
 <div align="center">
-
-[![Deploy with Docker](https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker)](https://github.com/hamzasaleem2/subra-local#using-docker)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-
-<img src="public/screen.png" alt="Subra Dashboard" width="100%" />
+  <img src="https://github.com/hamzasaleem2/subra-local/raw/main/public/logo.png" alt="Subra Logo" width="200" />
+  <br/>
+  [![Deploy with Docker](https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker)](https://github.com/hamzasaleem2/subra-local#using-docker)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+  <br/>
+  <img src="public/screen.png" alt="Subra Dashboard" width="100%" />
 
 </div>
 
