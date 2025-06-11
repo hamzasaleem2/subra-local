@@ -1,15 +1,14 @@
 <div align="center">
   <img src="https://github.com/hamzasaleem2/subra-local/raw/main/public/logo.png" alt="Subra Logo" width="200" />
   <br/>
-  [![Deploy with Docker](https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker)](https://github.com/hamzasaleem2/subra-local#using-docker)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-  <br/>
   <img src="public/screen.png" alt="Subra Dashboard" width="100%" />
 
 </div>
 
+[![Deploy with Docker](https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker)](https://github.com/hamzasaleem2/subra-local#using-docker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 ## About
 
 Subra is a powerful subscription management tool that helps you take control of your recurring expenses. This repository contains the local-first version of Subra, which stores data in your browser's local storage.
