@@ -12,7 +12,7 @@ We take the security of Subra seriously. If you believe you have found a securit
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to hamzasaleembusiness@gmail.com
+Instead, please report them via email to support@subra.app
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 

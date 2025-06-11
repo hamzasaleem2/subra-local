@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 [Report a bug](https://github.com/hamzasaleem2/subra-local/issues)
 - 💡 [Request a feature](https://github.com/hamzasaleem2/subra-local/issues/new?labels=enhancement)
-- 📧 [Contact support](mailto:hamzasaleembusiness@gmail.com)
+- 📧 [Contact support](mailto:support@subra.app)
 
 ## FAQ
 
